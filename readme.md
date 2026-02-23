@@ -1,1 +1,1 @@
-![CLI Preview](image/preview.png)
+![CLI Preview](out/preview.png)
