@@ -13,7 +13,7 @@ func main() {
 	imageFilename := "image/lilDocker.png"
 
 	opt := convert.DefaultOptions
-	opt.FixedWidth = 88
+	opt.FixedWidth = 94
 	opt.FixedHeight = 30
 	opt.Colored = true
 
